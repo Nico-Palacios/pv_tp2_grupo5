@@ -1,2 +1,2 @@
     let nom = prompt("Ingrese nombre: ");
-    window.alert("NOMBRE INGRESADO: "+nom);  
+    window.alert("Hola "+nom+" .Bienvenido a Programacion Visual.");

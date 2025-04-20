@@ -1,0 +1,21 @@
+body{
+    background-color: #547792;
+    display: flex;
+    justify-content: center;
+    align-items: center;     
+    height: 500px;           
+    
+}
+
+.contenedor{
+    background-color: #94B4C1;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    gap: 20px;
+    height: 100px;
+    width: 500px;
+    border-radius: 10px;
+    border: #213448 solid;
+}

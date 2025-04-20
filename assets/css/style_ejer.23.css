@@ -1,0 +1,26 @@
+h1{
+    color: #333
+}
+.container{
+    background: rgb(223, 228, 177);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px (0,0,0,0.1);
+    max-width: 400px;
+}
+.opciones{
+    margin-bottom: 15px;
+}
+label {
+    display: block;
+    margin: 5px 0;
+}
+#resultado{
+    font-weight: bold;
+    color: #0066cc;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+    background-color: #f5d8d8;
+}

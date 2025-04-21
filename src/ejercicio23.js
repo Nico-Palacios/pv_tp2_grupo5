@@ -1,4 +1,2 @@
-const radios = document.querySelectorAll(`input[name="lenguaje"]`);
-const resultado = document.getElementById(`resultado`);
-
-import { radios } from "./modulo_ejercicio23";
+import { radios } from "/src/modulo_ejercicio23.js";
+radios();
